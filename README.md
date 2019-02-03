@@ -30,4 +30,4 @@ There are many algorithms to choose from, we will use a neural network (espacial
 
 
 
-<3<3<3<3<3<3<3<3<3<3<3<3<3<3<3<3<3<3<3<3<3<3<3<3<3<3<3<3<3 MAKE CODE NOT WAR <3<3<3<3<3<3<3<3<3<3<3<3<3<3<3<3<3<3<3<3<3<3<3<3<3<3<3<3<3<3<3
+<3<3<3<3<3<3<3<3<3<3<3<3<3<3<3 MAKE CODE NOT WAR <3<3<3<3<3<3<3<3<3<3<3<3<3<3<3
