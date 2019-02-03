@@ -1,10 +1,12 @@
 # Machine-learning-for-language-detection: Text Classification using python, scikit-learn and NLTK  , Neural Network(MLP)
 
 Introduction:
+
 In natural language processing, language identification or language guessing is the problem of determining which
 natural language given content is in . We will focus just on Frensh , Spanish , Portuguese and Italian.
 
 Abstract:
+
 1-download the data set from http://www.statmt.org/europarl/ ( download==>"source release"==>choose: Fr , es , pt , it)
 2-Extract features from text files ( cleaning.py + feature_preparation.py)
 3-Running ML algorithms , we will use MLP ( libraries =>scikit-learn and NLTK )
